@@ -1,2 +1,3 @@
 # StrangeInterviewQuestions
 一份有点奇怪的面试题
+只是我之前如优贝面试的笔试题，然后我错了一半，总感觉这都是大坑啊
